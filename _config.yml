@@ -32,5 +32,4 @@ latex:
 extra_extensions:
     - sphinx_click.ext
     - sphinx_tabs.tabs
-    - sphinx_panels    
-© 2020 GitHub, Inc.
+    - sphinx_panels
