@@ -1,0 +1,5 @@
+jupyter-book>=0.7.0b
+sphinx-click
+sphinx_tabs
+sphinx-panels
+jupytext[myst]
