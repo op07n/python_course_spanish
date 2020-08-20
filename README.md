@@ -1,3 +1,7 @@
+Duplicate of https://github.com/IIC2233/contenidos
+
+
+
 # Contenidos
 
 Los contenidos se organizan según la semana del semestre en que nos encontremos, y según la semana que se destina para su estudio. Los contenidos se subirán en paquetes de una o varias semanas seguidas, pero para una semana dada, solo es necesario estudiar los contenidos de dicha semana, y no las semanas posteriores incluidas en el paquete.
