@@ -1,0 +1,37 @@
+# Book settings
+title: My sample book
+author: The Jupyter Book Community
+logo: 'logo.png'
+
+
+execute:
+  execute_notebooks: cache
+
+
+html:
+  home_page_in_navbar: false
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
+  baseurl: https://op07n.github.io/python_course_spanish/
+
+repository:
+  url: https://github.com/op07n/python_course_spanish
+  branch: master
+  path_to_book: .
+
+launch_buttons:
+  notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
+  binderhub_url: "https://notebooks.gesis.org/binder"
+  colab_url: "https://colab.research.google.com"
+  thebe: true
+
+latex:
+  latex_documents:
+    targetname: book.tex
+    
+extra_extensions:
+    - sphinx_click.ext
+    - sphinx_tabs.tabs
+    - sphinx_panels    
+© 2020 GitHub, Inc.
