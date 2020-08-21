@@ -1,13 +1,13 @@
 - file: README
 - file: semana-00/1-guía-de-estilo
-- file: semana-00/2-modularización
-- file: semana-00/3-paths
-- file: semana-00/4-strings
+# - file: semana-00/2-modularización
+# - file: semana-00/3-paths
+# - file: semana-00/4-strings
 - file: semana-01/1-introducción
-- file: semana-01/2-listas-tuplas
+# - file: semana-01/2-listas-tuplas
 - file: semana-01/3-stacks
 - file: semana-01/4-colas
-- file: semana-01/5-diccionarios
-- file: semana-01/6-sets
-- file: semana-01/7-args-kwargs
-- file: semana-01/ejercicios_propuestos/ejercicios_propuestos
+# - file: semana-01/5-diccionarios
+# - file: semana-01/6-sets
+# - file: semana-01/7-args-kwargs
+# - file: semana-01/ejercicios_propuestos/ejercicios_propuestos
